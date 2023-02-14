@@ -1,2 +1,5 @@
 /nodered-data/*
 /rabbitmq-data/*
+
+!/nodered-data/.gitkeep
+!/rabbitmq-data/.gitkeep
