@@ -6,6 +6,7 @@ services:
     image: nodered/node-red:latest
     ports:
       - 1880:1880
+      - 1337:1337
     volumes:
       - ./nodered-data:/data
     networks:
